@@ -1128,6 +1128,7 @@ footer p {
     /* menu */
     .menu-wrapper {
         padding-inline: 20px;
+        width:100%;
     }
 
     .menu-contents {
@@ -1153,7 +1154,7 @@ footer p {
     }
 
     .info-text {
-        width: 280px;
+        max-width: 280px;
         margin-bottom: 30px;
     }
 
