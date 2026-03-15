@@ -836,6 +836,7 @@ header nav a:hover {
 
 /* bottom-text */
 .bottom-text {
+    width:100%;
     padding: 150px;
     font-size: 18px;
     line-height: 50px;
@@ -1163,7 +1164,7 @@ footer p {
     }
 }
 
-@media(max-width:350px){
+@media(max-width:600px){
     .menu{
         width:100%;
     }
