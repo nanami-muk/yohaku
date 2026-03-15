@@ -843,6 +843,11 @@ header nav a:hover {
     text-align: center;
 }
 
+.bottom-text p{
+    display: block;
+    width:100%;
+}
+
 
 /* footer */
 footer {
