@@ -1162,3 +1162,9 @@ footer p {
         width: 100%;
     }
 }
+
+@media(max-width:350px){
+    .menu{
+        width:100%;
+    }
+}
