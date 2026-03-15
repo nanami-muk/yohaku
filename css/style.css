@@ -836,18 +836,11 @@ header nav a:hover {
 
 /* bottom-text */
 .bottom-text {
-    width:100%;
-    padding: 150px;
+    padding-block: 150px;
     font-size: 18px;
     line-height: 50px;
     text-align: center;
 }
-
-.bottom-text p{
-    display: block;
-    width:100%;
-}
-
 
 /* footer */
 footer {
@@ -1160,10 +1153,14 @@ footer p {
     }
 
     .info-text {
-        max-width: 280px;
+        width: 100%;
         margin-bottom: 30px;
     }
 
+    .info-text dd:first-of-type{
+        margin-right:20px;
+    }
+    
     .map {
         width: 100%;
     }
