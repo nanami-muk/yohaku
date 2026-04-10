@@ -76,7 +76,7 @@ header {
 
 .header-contents {
     padding-inline: 35px;
-    height: 120px;
+    height: 100px;
 }
 
 .header-contents img {
@@ -116,7 +116,7 @@ header nav a:hover {
 
 /* main */
 .mainvisual {
-    padding-top: 120px;
+    padding-top: 100px;
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
 }
@@ -133,7 +133,7 @@ header nav a:hover {
 
 .mainvisual img {
     width: 100%;
-    height: calc(100vh - 120px);
+    height: calc(100vh - 100px);
     object-fit: cover;
 }
 
