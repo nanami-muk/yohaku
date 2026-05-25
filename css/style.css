@@ -116,7 +116,7 @@ header nav a:hover {
 
 /* main */
 .mainvisual {
-    padding-top: 100px;
+    padding-top: 80px;
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
 }
